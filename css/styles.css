@@ -174,7 +174,13 @@ a {
   transform: scale(1.3);
 }
 
+.img {
+  width: auto;
+  max-height: auto;
+}
+
 .contacts {
+  text-align: center;
   background: linear-gradient(90deg, #674a40, #68534d);
 }
 
